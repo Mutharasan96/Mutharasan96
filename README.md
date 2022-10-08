@@ -1,3 +1,5 @@
+<img src="https://github.com/Mutharasan96/CRM_django/blob/main/images/django_banner.jpg" width=240/>
+
 ### Hi there 👋
 
 <!--
