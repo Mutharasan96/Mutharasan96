@@ -1,6 +1,7 @@
-<img src="https://github.com/Mutharasan96/CRM_django/blob/main/images/django_banner.jpg" width=240/>
+![I am GitHub Readme Generator's creator](https://github.com/Mutharasan96/CRM_django/blob/main/images/django_banner.jpg)
 
-### Hi there 👋
+### Build CRM with Django
+
 
 <!--
 **Mutharasan96/Mutharasan96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
